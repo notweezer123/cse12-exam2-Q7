@@ -17,6 +17,7 @@ class Video_Task {
     /* 
     Fill out the below table on video
     Fill out blanks in following questions
+    Big O refers to the tight bound in this question
     |-----------------------------------------------|
     | Line                      | Number of Steps   |
     | long accum = 0            |                   |
@@ -54,6 +55,7 @@ class Video_Task {
     /* 
     Fill out the below table on video
     Fill out blanks in following questions
+    Big O refers to the tight bound in this question
 
     |-----------------------------------------------|
     | Line                      | Number of Steps   |
